@@ -1,3 +1,3 @@
 # TinDog Project
 
-This is website as built using bootstrap
+This is website was built using bootstrap
